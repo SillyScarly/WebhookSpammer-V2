@@ -13,7 +13,9 @@ Step 1 : Pip install these required modules into CMD
 
 Step 2 : Create a txt file with discord webhooks then save that file and call it webhooks.txt
 
-Step 3 : 
+Step 3 : Run Spammer.py 
+
+Step 4 : Enjoy!
 
 -----------------------------------------------------
 Discord SillyScarly#0001
